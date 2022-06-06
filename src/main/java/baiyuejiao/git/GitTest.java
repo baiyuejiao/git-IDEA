@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("Hello Git-Demo");
         System.out.println("Hello Git hot-fix");
         System.out.println("Hello Git hot-fix merge");
+        System.out.println("SSH");
     }
 }
